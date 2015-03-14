@@ -1,0 +1,1 @@
+Openfat is a C library implementing the most used multiaxial fatigue criteria (Sines, Crossland, Dang Van)
